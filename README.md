@@ -1,5 +1,7 @@
-### Sohan Bappy (Debugger)
+# Sohan Bappy (Debugger)
 
-Java Developer :coffee:
+### Software Engineer :computer:
+### Java Developer :coffee:
+### Still learning :beginner: 
 
 
